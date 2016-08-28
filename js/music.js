@@ -11,7 +11,7 @@ $(function(){
 	$("iframe").height(vid);
 
 	$(window).resize(function(){
-		$("#top-b").width($("#top-w").width());
+	$("#top-b").width($("#top-w").width());
 	$("#top-i").width($("#top-b").width());
 	$("#top-c").width($("#top-w").width());
 	$("#top-i").height($("#top-b").height());
